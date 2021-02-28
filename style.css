@@ -9,7 +9,6 @@ maindiv {background-color:white;
          width:300px;
          padding: 20px;
          border-radius: 25px;
-         margin-right: auto;
-         margin-left: auto;
+         align: center;
 }
 
