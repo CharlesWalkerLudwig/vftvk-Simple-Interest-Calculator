@@ -1,6 +1,7 @@
 body {background-color:tan;
       color:black;
       font-color: white;}
+
 h1{color:grey;
    font:verdana;}
 
@@ -9,6 +10,6 @@ maindiv {background-color:white;
          width:300px;
          padding: 20px;
          border-radius: 25px;
-         align-content: center;
+         align: center;
 }
 
